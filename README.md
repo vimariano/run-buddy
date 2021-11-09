@@ -15,4 +15,5 @@ https://vimariano.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by VJ Mariano
->>>>>>> 3d0c155873322696146f3ce2f359686ab6e930f8
+
+### ©️2019 Run Buddy, Inc 
